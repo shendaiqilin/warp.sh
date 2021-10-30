@@ -40,7 +40,7 @@ menu            Chinese special features menu
 
 ## Credits
 
-- [Cloudflare WARP](https://1.1.1.1/)
+- [Cloudflare WARP](https://1.1.1.2/)
 - [WireGuard](https://www.wireguard.com/)
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf)
 
